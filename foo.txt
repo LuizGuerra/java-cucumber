@@ -1,0 +1,16 @@
+@Given("age is {int}")
+public void age_is(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("years is being calculated")
+public void years_is_being_calculated() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("result should be {int} ano\\(s)
+2 mes\\(es)
+10 dia\\(s)")
+public void result_should_be_ano_s_2_mes_es_10_dia_s(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+   

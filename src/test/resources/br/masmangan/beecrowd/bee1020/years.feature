@@ -10,7 +10,7 @@ Feature: Years
   Scenario Outline: Find age
 
     Given age is <r>
-    When years is being calculated
+    When years are being calculated
     Then result should be <a>
 
     Examples:
